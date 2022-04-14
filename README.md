@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow) | ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=lightblue) | ![next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white) |
+![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow) | ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=lightblue) | ![next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white) | ![node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=green) |
 
 
 
