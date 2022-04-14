@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow) | ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=darkblue) | 
+![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow) | ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=lightblue) | 
 
 
 
