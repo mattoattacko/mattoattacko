@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💬 About
+- I am a fullstack web-developer specializing in JavaScript, React, Node, and other modern engineering tools. 
+
 <!--
 **mattoattacko/mattoattacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
