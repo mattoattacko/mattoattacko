@@ -1,4 +1,4 @@
-### Aloha 🤙 🌊
+### Aloha & Welcome! Thank you for stopping by to check out my GitHub. If you have any questions, please don't hesitate to contact me!
 
 ## 
 
