@@ -1,4 +1,4 @@
-### Aloha & Welcome! Thank you for stopping by & checking out my GitHub. My name is Matt, and I work with fullstack JS based applications. If you have any questions, please don't hesitate to reach out!
+### Aloha & Welcome! Thank you for stopping by & checking out my GitHub. My name is Matt, and I work with fullstack JS based applications. If you have any questions, please don't hesitate to reach out.
 
 ## 
 
